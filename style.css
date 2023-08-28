@@ -1,0 +1,26 @@
+/* Estilo para los encabezados h1 */
+h1 {
+  color: #1f4068; /* Cambio de color */
+  font-size: 28px; /* Aumento del tamaño de fuente */
+  font-weight: bold; /* Agregado el grosor de fuente */
+  margin-bottom: 10px; /* Espaciado inferior */
+}
+
+/* Estilo para los párrafos */
+p {
+  color: #4a4a4a; /* Cambio de color */
+  font-size: 18px; /* Aumento del tamaño de fuente */
+  line-height: 1.5; /* Espaciado entre líneas */
+  margin-bottom: 20px; /* Espaciado inferior */
+}
+
+/* Estilo para los enlaces */
+a {
+  color: #e76f51; /* Cambio de color */
+  text-decoration: none; /* Subrayado */
+}
+
+/* Cambio en el color de los enlaces al pasar el cursor */
+a:hover {
+  color: #d62828; /* Cambio de color al pasar el cursor */
+}
